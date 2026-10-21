@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lsn_f08c6a95-6c9a-4b79-b7d6-d8c87d056f9c",
-  "revision": "git-branch-4",
+  "revision": "git-branch-5",
   "title": "Git · 브랜치 기본: 작업을 나누고 합쳐요",
   "description": "여러분은 메모 서비스 팀의 새 팀원이에요. 팀의 안내문을 맡았어요. 메모 안내와 문의 안내를 차례로 완성해요.",
   "objectives": [
@@ -249,7 +249,7 @@
         },
         {
           "action": "say",
-          "text": "조심하세요. 앞 문제의 파일과 기록을 그대로 이어서 써요.",
+          "text": "조심하세요. ../inbox는 실습용 준비 폴더예요. mv로 옮긴 뒤에는 저장소 안에서 파일을 읽어요.",
           "target": "#git-demo-terminal"
         }
       ]
